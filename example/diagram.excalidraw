@@ -998,36 +998,6 @@
       "elbowed": false,
       "lastCommittedPoint": null,
       "index": "aM"
-    },
-    {
-      "id": "lLkJGTTSXPDASaNW9e9CQ",
-      "type": "rectangle",
-      "x": 350.67708333333314,
-      "y": -199.06380208333357,
-      "width": 245.28645833333337,
-      "height": 71.65364583333334,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "aN",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1126115503,
-      "version": 38,
-      "versionNonce": 1231131919,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1787732833919,
-      "link": null,
-      "locked": false
     }
   ],
   "appState": {
