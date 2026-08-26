@@ -1,0 +1,5 @@
+{
+  // Библиотека коробок подхватывается сама — перетаскивать файл не нужно.
+  "excalidraw.workspaceLibraryPath": "excalidraw/sd-stencils.excalidrawlib",
+  "excalidraw.theme": "auto"
+}
